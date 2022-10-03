@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/">
+	<document-info>
+		<title>Test with Flash</title>
+		<summary></summary>
+		<author/>
+		<keywords/>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/><view-link href="/Viewer.swf?slide={position}"/>
+	</document-info>
+	<section type="slide" position="1" xmlns="">
+		<title>Test with Flash </title>
+		<content>  Test with Flash Oct 2022 </content>
+		<related-content></related-content>
+		<thumbnail href="data/thumb/thumb_slide_000001.jpg"/></section>
+	<section type="slide" position="2" xmlns="">
+		<title>Testing animation </title>
+		<content>  Testing animation Animation 1 Animation 2 Animation 3 </content>
+		<related-content></related-content>
+		<thumbnail href="data/thumb/thumb_slide_000002.jpg"/></section>
+</document-metadata>

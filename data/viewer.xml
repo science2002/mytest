@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="720" height="540" start="play" buildNum="7.0.5.7588">
+	<presentationTitle>Test with Flash</presentationTitle>
+	<speakers>
+		<speaker>
+			<name>Testing Presenter</name>
+		</speaker>
+	</speakers>
+	<backgrounds>
+		<background url="Master80000000.swf"/>
+	</backgrounds>
+	<search url="srchdata.xml"/>
+	<slides>
+		<slide id="256" frameRate="30" totalFrames="150" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide1.swf"/>
+			<slideBackground index="0" frameToPlay="1" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<slideTitle>Test with Flash</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+			<slideSpeaker index="0"/>
+		</slide>
+		<slide id="257" frameRate="30" totalFrames="150" advance="auto" blockMovement="false" type="normal">
+			<content url="Slide2.swf"/>
+			<slideBackground index="0" frameToPlay="3" duration="2" showAfterFrame="0"/>
+			<flvContents></flvContents>
+			<clickAnimations>
+				<clickAnimation start="1" end="17"/>
+				<clickAnimation start="18" end="34"/>
+				<clickAnimation start="35" end="51"/>
+				<clickAnimation start="52" end="68"/>
+			</clickAnimations>
+			<slideTitle>Testing animation</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+			<slideSpeaker index="0"/>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>
